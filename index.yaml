@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  my-chart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-11-09T19:05:08.827079146Z"
+    description: My chart is amazing
+    digest: 399637d8794fd211d5e63e4bb77e40ab9f2292ab0d5394fb607e878225e70e2e
+    name: my-chart
+    type: application
+    urls:
+    - my-chart-0.1.0+fa0e2a7.tgz
+    version: 0.1.0+fa0e2a7
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-11-09T19:05:08.69877266Z"
+    description: My chart is amazing
+    digest: 24ce7b3276ed063f245213d8f8dbd18f07d9fb083747771f7ace55271bfe91ea
+    name: my-chart
+    type: application
+    urls:
+    - my-chart-0.1.0+0ac530b.tgz
+    version: 0.1.0+0ac530b
+generated: "2021-11-09T19:05:08.690772398Z"
