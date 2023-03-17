@@ -1,1 +1,44 @@
-
+apiVersion: v1
+entries:
+  foo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-17T04:02:52.064316822Z"
+    description: A Helm chart for Kubernetes
+    digest: 9d029b38da5e64480178f1117c53bc4b46108c38c86b3b3f1771acc050b007a2
+    name: foo
+    type: application
+    urls:
+    - foo-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-17T04:02:52.063253207Z"
+    description: A Helm chart for Kubernetes
+    digest: 83a508692508297cedcca07bf1e734939adf10171b6fccc24ff1c467442fc2e8
+    name: foo
+    type: application
+    urls:
+    - foo-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-17T04:02:52.061979489Z"
+    description: A Helm chart for Kubernetes
+    digest: b4464a1b7e96ce239472f278c5a3b4c7fd72508302ab0d8bfc89fdc8d30f1bca
+    name: foo
+    type: application
+    urls:
+    - foo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-17T04:02:52.061216878Z"
+    description: A Helm chart for Kubernetes
+    digest: b22ee5885b1f98525d89a0399e7211b683dfebb1dcdcd07fd6ab0498c1215f3f
+    name: foo
+    type: application
+    urls:
+    - foo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-17T04:02:52.058709242Z"
